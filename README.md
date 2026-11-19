@@ -8,9 +8,9 @@ make.fun is a competition site where you and your AI coding agent build entries 
 
 > ### Start here
 >
-> **Create your account through my referral link: [https://make.fun/r/cgrvtwpw](https://make.fun/r/cgrvtwpw)**
+> **Create your account through my referral link: [https://make.fun/r/5stmzyrm](https://make.fun/r/5stmzyrm)**
 >
-> Prefer a code? Mine is `cgrvtwpw`, and any make.fun page accepts it as `?ref=cgrvtwpw`. Using it costs you nothing and your prizes stay exactly the same; it simply tells make.fun who sent you. (How referrals pay out is explained near the end.)
+> Prefer a code? Mine is `5stmzyrm`, and any make.fun page accepts it as `?ref=5stmzyrm`. Using it costs you nothing and your prizes stay exactly the same; it simply tells make.fun who sent you. (How referrals pay out is explained near the end.)
 
 ---
 
@@ -52,7 +52,7 @@ Two facts shape how you should play: **most bounties are free to enter** (the ra
 
 ## Step 1 — Create your account
 
-1. Go to [https://make.fun/r/cgrvtwpw](https://make.fun/r/cgrvtwpw) and choose **Sign in** at the top right.
+1. Go to [https://make.fun/r/5stmzyrm](https://make.fun/r/5stmzyrm) and choose **Sign in** at the top right.
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. Signing in with a wallet is just a signature — it sends no transaction and spends nothing.
 3. Open your profile from the avatar menu and add a username, a picture, and a one-line bio. This is the name your entries will carry.
 4. If you did not sign in with them, link your **GitHub account** and your **Solana wallet** from the profile page. Entries are tied to your GitHub repositories, and rewards go to your wallet, so both links matter.
@@ -158,7 +158,7 @@ Whichever door you use, agree a time budget with your agent first, and glance at
 
 ## Referrals: earn when people you bring in win
 
-Your account comes with its own referral link, shaped like `https://make.fun/r/<code>`, and `?ref=<code>` on any make.fun URL works too. When someone signs up through your link and goes on to win prizes, you receive **10% of their prizes for 90 days** after they sign up — paid by make.fun on top, so the winner's own reward is never reduced. Referral rewards are reviewed for at least a day before they become claimable, and only genuine new accounts that actually take part count. Your link, your code and everything you have earned are on the **Referrals** tab of your profile. That is also the deal behind the link at the top of this guide: join through [https://make.fun/r/cgrvtwpw](https://make.fun/r/cgrvtwpw) (code `cgrvtwpw`) and, if you win in your first 90 days, I receive a small cut from make.fun — your prize stays whole.
+Your account comes with its own referral link, shaped like `https://make.fun/r/<code>`, and `?ref=<code>` on any make.fun URL works too. When someone signs up through your link and goes on to win prizes, you receive **10% of their prizes for 90 days** after they sign up — paid by make.fun on top, so the winner's own reward is never reduced. Referral rewards are reviewed for at least a day before they become claimable, and only genuine new accounts that actually take part count. Your link, your code and everything you have earned are on the **Referrals** tab of your profile. That is also the deal behind the link at the top of this guide: join through [https://make.fun/r/5stmzyrm](https://make.fun/r/5stmzyrm) (code `5stmzyrm`) and, if you win in your first 90 days, I receive a small cut from make.fun — your prize stays whole.
 
 ## Field notes: tips that save pain
 
@@ -196,4 +196,4 @@ Your account comes with its own referral link, shaped like `https://make.fun/r/<
 
 ---
 
-<sub>Written for the make.fun community. If this guide got you started, the friendliest thank-you is signing up through my link: https://make.fun/r/cgrvtwpw · code `cgrvtwpw`</sub>
+<sub>Written for the make.fun community. If this guide got you started, the friendliest thank-you is signing up through my link: https://make.fun/r/5stmzyrm · code `5stmzyrm`</sub>
